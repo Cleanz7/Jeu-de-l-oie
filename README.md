@@ -21,6 +21,8 @@ Ce rapport a été rédigé par Clément Jantet, Calliste Ravix, Blaise Hecquet,
 
 Ce projet consiste en la réalisation d’un jeu de l’oie adapté à la vie d’un étudiant à l’ENSICAEN. L’objectif fondamental de ce projet n’est pas de réaliser un jeu complet mais plutôt d’avoir la bonne méthode de travail en utilisant une méthode de développement agile. Ce jeu reprend donc les codes classiques d’un jeu de l’oie que nous avons légèrement personnalisé pour l’adapter à la vie d’un étudiant à l’ENSICAEN.
 
+![Plateau de jeu](https://github.com/Cleanz7/Jeu-de-l-oie/blob/main/plateau.png)
+
 ## 2. DESCRIPTION DU JEU
 
 Comme expliqué dans l’introduction, le jeu que nous avons développé est un jeu de l’oie qui se base sur les étapes principales de la vie d’un étudiant à l’ENSICAEN. Ce jeu se veut caricatural et non parfaitement réaliste. Le plateau de jeu est donc composé de 65 cases inédites avec des effets particuliers. Les joueurs évoluent sur le plateau en lançant un dé de 6 faces. Le plateau est séparé en 3 parties représentant les 3 années nécessaires à l’obtention du diplôme d’ingénieur. Chacune de ces parties se termine par un examen. Tout au long de l’année en cours, le joueur va voir son niveau de compétence être influencé en fonction des cases sur lesquelles il tombe.
